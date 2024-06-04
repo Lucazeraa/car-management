@@ -10,6 +10,9 @@ Este é um projeto para demonstrar o gerenciamento de carros usando React.
 5: Iniciar o servidor de desenvolvimento:
 6: Abrir o navegador e visite http://localhost:3000 para visualizar o projeto.
 
+Antes de dar npm start costumo dar tambem:
+npm install react-router-dom
+
 ## Componentes
 
 ### NavBar
